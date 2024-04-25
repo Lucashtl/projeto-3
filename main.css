@@ -1,0 +1,64 @@
+.navbar-brand{
+    font-size: 30px;
+}
+
+header{
+    background-color: rgb(82, 24, 229);
+    font-family: "Bungee Shade", sans-serif;
+    
+}
+body{
+    font-family: "Roboto", cursive;
+}
+
+.navbar-brand,
+.nav .nav-link{
+    color: rgb(52, 158, 251);
+}
+
+.nav .nav-link.active{
+    color: black;
+}
+
+.carousel-item img{
+    width: 100%;
+    
+}
+
+.img-restaurante img{
+    width: 100%;
+}
+
+.section-title{
+    font-family: "Bungee Shade", sans-serif;
+}
+
+.section-title:hover{
+    color: black;
+}
+
+.text-colored{
+    color: rgb(52, 158, 251);
+}
+
+#aquarios .img-aquario{
+    height: 300px;
+}
+
+.fundo{
+    background-color: rgb(52, 158, 251);;
+}
+
+.peixes{
+    max-height: 150px;
+    overflow-y: hidden;
+}
+
+.social-links{
+    display: flex;
+}
+
+.social-links li{
+    margin-right: 5px;
+    list-style: none;
+}
